@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hello%20Everyone!&fontSize=90&color=gradient&animation=fadeIn" />
-<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hello%20Everyone!&fontSize=60&color=gradient&animation=fadeIn" />
+</a><!--
 **Himanshu02Pr/Himanshu02Pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
