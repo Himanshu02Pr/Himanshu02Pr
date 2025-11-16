@@ -15,12 +15,13 @@
 ```yaml
 name: Himanshu Prajapat
 located_in: Berlin, Germany
+
 education:
   [
     "Master's in Data Analytics",
     "Bachelor's in Electronics and Communication"
   ]
-fields_of_interests:
+interests:
   [
     "Applied Mathematics",
     "Data Science",
